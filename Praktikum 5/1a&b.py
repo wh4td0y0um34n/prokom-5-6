@@ -1,0 +1,10 @@
+list = [1,-2,-8,0,3]
+nilai_terbesar = max(list)
+print("Program Menampilkan Nilai Maksimum Dari List")
+print ("Nilai dari List : ",list)
+print ("Nilai maksimum Dari list : ",nilai_terbesar) 
+print ()
+print("Program Menampilkan Nilai Minimum Dari List")
+nilai_terkecil = min(list)
+print ("Nilai dari List : ",list)
+print ("Nilai minimum Dari list : ",nilai_terkecil) 
